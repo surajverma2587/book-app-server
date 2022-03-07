@@ -19,8 +19,10 @@
   },
   "homepage": "https://github.com/surajverma2587/book-app-server#readme",
   "dependencies": {
+    "apollo-server": "^3.6.3",
     "bcrypt": "^5.0.1",
     "express": "^4.17.3",
+    "graphql": "^16.3.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.2.4"
   },
